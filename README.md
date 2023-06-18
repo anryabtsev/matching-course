@@ -15,14 +15,14 @@ To join this course contact https://t.me/Kosmo_Antony.
 
 | Lecture | Date | Description | Materials                                                              | Video                                                 |
 |---------|------|-------------|---------------------------------------------------------------------|-------------------------------------------------------|
-| 1 | September, 5 | Introduction <br /> ([A. Ryabtsev](https://github.com/shashist)) | [slides](week_01_introduction/rs_lecture01.pdf)                     | [video](https://www.youtube.com/watch?v=jlw86T4U4hs)  |
-| 2 | September, 12 | Neighborhood-Based models <br /> ([A. Ryabtsev](https://github.com/shashist)) | [slides](week_02_neighbourhood_based/rs_lecture02.pdf)              | [video](https://www.youtube.com/watch?v=TJ90kd4pQ3E)  |
-| 3 | September, 19 | Matrix Factorization models <br /> ([A. Ryabtsev](https://github.com/monkey0head)) | [slides](week_03_matrix_factorization/rs_lecture03.pdf)             | [video](https://www.youtube.com/watch?v=CTaPrTf89Xc)  |
-| 4 | September, 26 | Content-based and Hybrid systems <br /> ([A. Ryabtsev](https://github.com/monkey0head)) | [slides](week_04_hybrid/rs_lecture04.pdf)                           | [video](https://www.youtube.com/watch?v=tQS_RKgm9o0)  |
-| 5 | October, 3 | Two-level models <br /> ([A. Ryabtsev](https://github.com/monkey0head)) | [slides](week_05_multi-stage/rs_lecture05.pdf), [notebook](week_05_multi-stage/recsys_intro_2023.ipynb) | [video](https://www.youtube.com/watch?v=-wyl08Z_foA)  |
-| 6 | October, 10 | Neural recommenders <br /> ([A. Ryabtsev](https://github.com/shashist)) | [slides](week_06_neural_recommenders/rs_lecture06.pdf) |  [video](https://www.youtube.com/watch?v=v5QHslJGoHc) |
-| 7 | October, 17 | Multi-armed bandits <br /> ([A. Ryabtsev](https://github.com/shashist)) |[slides](week_07_bandits/rs_lecture07.pdf) | [video](https://www.youtube.com/watch?v=8EfKHNDBoyA) |
-| 8 | October, 24 | Counterfactual evaluation <br /> ([A. Ryabtsev](https://github.com/shashist)) | [slides](week_08_counterfactual/rs_lecture08.pdf) | [video](https://www.youtube.com/watch?v=pxlp87ya-eQ)|
+| 1 | September, 5 | Introduction <br /> ([A. Ryabtsev](https://github.com/shashist)) | [slides](week_01_introduction/matching_lecture_01.pdf)                     | [video](https://www.youtube.com/watch?v=jlw86T4U4hs)  |
+| 2 | September, 12 | Metrics and objectives <br /> ([A. Ryabtsev](https://github.com/shashist)) | [slides](week_02_neighbourhood_based/rs_lecture02.pdf)              | [video](https://www.youtube.com/watch?v=TJ90kd4pQ3E)  |
+| 3 | September, 19 | Models live in... <br /> ([A. Ryabtsev](https://github.com/monkey0head)) | [slides](week_03_matrix_factorization/rs_lecture03.pdf)             | [video](https://www.youtube.com/watch?v=CTaPrTf89Xc)  |
+| 4 | September, 26 | Searching for candidates <br /> ([A. Ryabtsev](https://github.com/monkey0head)) | [slides](week_04_hybrid/rs_lecture04.pdf)                           | [video](https://www.youtube.com/watch?v=tQS_RKgm9o0)  |
+| 5 | October, 3 | Classifier <br /> ([A. Ryabtsev](https://github.com/monkey0head)) | [slides](week_05_multi-stage/rs_lecture05.pdf), [notebook](week_05_multi-stage/recsys_intro_2023.ipynb) | [video](https://www.youtube.com/watch?v=-wyl08Z_foA)  |
+| 6 | October, 10 | NLP models <br /> ([G. Drozdov](https://github.com/shashist)) | [slides](week_06_neural_recommenders/rs_lecture06.pdf) |  [video](https://www.youtube.com/watch?v=v5QHslJGoHc) |
+| 7 | October, 17 | CV models <br /> ([N. Bozhedomov](https://github.com/shashist)) |[slides](week_07_bandits/rs_lecture07.pdf) | [video](https://www.youtube.com/watch?v=8EfKHNDBoyA) |
+| 8 | October, 24 | Monitoring <br /> ([A. Ryabtsev](https://github.com/shashist)) | [slides](week_08_counterfactual/rs_lecture08.pdf) | [video](https://www.youtube.com/watch?v=pxlp87ya-eQ)|
 
 
 
