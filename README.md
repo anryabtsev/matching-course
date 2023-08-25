@@ -24,8 +24,9 @@ To join this course contact https://t.me/Kosmo_Antony.
 | 5 | October, 17 | NLP models <br /> ([G. Drozdov](https://drozdikgleb.github.io/)) | [slides] |  [video] |
 | 6 | October, 24 | CV models <br /> ([N. Bozhedomov]()) |[slides] | [video] |
 | 7 | October, 31 | Models live in... <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides] | [video] |
-| 8 | October, 7 | Monitoring <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides] | [video] |
+| 8 | November, 7 | Monitoring <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides] | [video] |
 | 9 | November, 14 | ML System Design <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides] | [video] |
+| 10 | November, 21 | Competition discussion <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides] | [video] |
 
 
 
