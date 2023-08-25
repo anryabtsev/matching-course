@@ -16,7 +16,7 @@ To join this course contact https://t.me/Kosmo_Antony.
 | Lecture | Date | Description | Materials                                                              | Video                                                 |
 |---------|------|-------------|---------------------------------------------------------------------|-------------------------------------------------------|
 | 1 | September, 5 | Introduction <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides](lectures/matching_lecture_01.pdf)                     | [video]  |
-| 2 | September, 12 | Problem statement and metrics <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides](lectures/matching_lecture_02.pdf), [hw](homeworks/hw1/matching_mipt_HW_1.ipynb)              | [video]  |
+| 2 | September, 12 | Problem statement and metrics <br /> ([A. Ryabtsev](https://github.com/anryabtsev))|[slides](lectures/matching_lecture_02.pdf), [hw](homeworks/hw1/matching_mipt_HW_1.ipynb)  | [video]  |
 | 3 | September, 19 | Searching for candidates <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides]             | [video]  |
 | 3 | September, 26 | HW_1 discussion <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) |    [solution]     | [video]  |
 | 4 | October, 3 | Classifier <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides]        | [video] |
