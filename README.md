@@ -30,7 +30,7 @@ To join this course contact https://t.me/Kosmo_Antony.
 
 | Homework | Date       | Deadline          | Description | Link                                  |
 |---------|------------|-------------------|--------|---------------------------------------|
-| 1 | September, 12 | September, 19 | practical | [Link](homeworks/hw_01/matching_hw1.ipynb) |
+| 1 | September, 12 | September, 19 | practical | [Link](homeworks/hw1/matching_mipt_HW_1.ipynb) |
 | 2 | September, 26  | October, 3 | practical | [Link] |
 | 3 | October, 10 | November, 14 | competition | [Kaggle] |
 
