@@ -15,7 +15,7 @@ To join this course contact https://t.me/Kosmo_Antony.
 
 | Lecture | Date | Description | Materials                                                              | Video                                                 |
 |---------|------|-------------|---------------------------------------------------------------------|-------------------------------------------------------|
-| 1 | September, 5 | Introduction <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides]                  | [video]  |
+| 1 | September, 5 | Introduction <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_01.pdf)                  | [video]  |
 | 2 | September, 12 | Problem statement and metrics <br /> ([A. Ryabtsev](https://github.com/anryabtsev))|[slides], [hw] | [video]  |
 | 3 | September, 19 | Searching for candidates <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides]             | [video]  |
 | 3 | September, 26 | HW_1 discussion <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) |    [solution]     | [video]  |
@@ -43,3 +43,5 @@ To join this course contact https://t.me/Kosmo_Antony.
 - active participation in lectures — up to 2 points
 - homeworks — up to 4 points
 - competition — up to 4 points
+
+#### Requirement to pass: `grade >= 6`
