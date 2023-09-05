@@ -1,7 +1,7 @@
 # Welcome to MIPT 2023 Matching course
 
 ## Description
-This is the first run of Matching course at IDA department.
+This is the first run of Matching course at Intelligent Systems department.
 
 The course focuses on how to make ML systems useful for the industry - from collecting/labeling data and building its regular supply, to monitoring indicators and evaluating the effectiveness of algorithms.
  
