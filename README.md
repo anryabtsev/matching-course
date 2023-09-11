@@ -35,7 +35,7 @@ To join this course contact https://t.me/Kosmo_Antony.
 
 | Homework | Date       | Deadline          | Description | Link                                  |
 |---------|------------|-------------------|--------|---------------------------------------|
-| 1 | September, 12 | September, 26 | practical | [Link] |
+| 1 | September, 12 | September, 19 | practical | [Link] |
 | 2 | November, 14  | November, 28 | practical | [Link] |
 | 3 | October, 10 | November, 21 | competition | [Kaggle] |
 
