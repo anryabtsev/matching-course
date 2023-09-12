@@ -40,7 +40,6 @@ To join this course contact https://t.me/Kosmo_Antony.
 | 3 | October, 10 | November, 21 | competition | [Kaggle] |
 
 #### Grade = `min(round(#points), 10)`
-- active participation in lectures — up to 2 points
 - homeworks — up to 4 points
 - competition — up to 4 points
 
