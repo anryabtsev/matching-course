@@ -17,7 +17,7 @@ To join this course contact https://t.me/Kosmo_Antony.
 |---------|------|-------------|---------------------------------------------------------------------|-------------------------------------------------------|
 | 1 | September, 5 | Introduction <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_01.pdf)                  | [video](https://youtu.be/Wjg9dFlHuqs)  |
 | 2 | September, 12 | Problem statement and metrics <br /> ([A. Ryabtsev](https://github.com/anryabtsev))|[slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_02.pdf), [hw](https://github.com/anryabtsev/matching-course/tree/main/homeworks/hw1) | [video](https://youtu.be/OaqppIdrymM)  |
-| 3 | September, 19 | Searching for candidates <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides]             | [video]  |
+| 3 | September, 19 | Searching for candidates <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_03.pdf)             | [video](https://youtu.be/ZxdhTgsD2G8)  |
 | 3 | September, 26 | HW_1 discussion <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) |    [solution]     | [video]  |
 | 4 | October, 3 | Classifier <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides]        | [video] |
 | 5 | October, 10 | ML Competition beginning <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides], [competition] |  [video] |
