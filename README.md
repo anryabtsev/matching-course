@@ -13,17 +13,17 @@ To join this course contact https://t.me/Kosmo_Antony.
 
 ## Materials
 
-| Lecture | Date | Description | Materials                                                              | Video                                                 |
-|---------|------|-------------|---------------------------------------------------------------------|-------------------------------------------------------|
-| 1 | September, 5 | Introduction <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_01.pdf)                  | [video](https://youtu.be/Wjg9dFlHuqs)  |
-| 2 | September, 12 | Problem statement and metrics <br /> ([A. Ryabtsev](https://github.com/anryabtsev))|[slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_02.pdf), [hw](https://github.com/anryabtsev/matching-course/tree/main/homeworks/hw1) | [video](https://youtu.be/OaqppIdrymM)  |
-| 3 | September, 19 | Searching for candidates <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_03.pdf)             | [video](https://youtu.be/ZxdhTgsD2G8)  |
-| 4 | October, 3 | Classifier <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_04.pdf)|  |
-| 5 | October, 17 | NLP models: chapter I <br /> ([G. Drozdov](https://drozdikgleb.github.io/)) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_05.pdf) |   |
-| 6 | October, 24 | NLP models: chapter II <br /> ([G. Drozdov](https://drozdikgleb.github.io/)) | [zip](https://github.com/anryabtsev/matching-course/blob/main/lectures/NLP_Practice.zip) |   |
-| 7 | October, 31 | CV models <br /> (N. Bozhedomov) |[slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_07.pdf) | [video](https://youtu.be/kJeY3l1GxTQ?si=C-XngouxfVFaOraN) |
-| 8 | November, 21 | ML System Design <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) | |  |
-| 9 | November, 28 | Competition discussion <br /> ([A. Ryabtsev](https://github.com/anryabtsev)) ||  |
+| Lecture | Date | Description | Materials                                                              |
+|---------|------|-------------|---------------------------------------------------------------------|
+| 1 | September, 5 | Introduction <br /> (A. Ryabtsev) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_01.pdf)                  |
+| 2 | September, 12 | Problem statement and metrics <br /> (A. Ryabtsev)|[slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_02.pdf), [hw](https://github.com/anryabtsev/matching-course/tree/main/homeworks/hw1) |
+| 3 | September, 19 | Searching for candidates <br /> (A. Ryabtsev) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_03.pdf)             |
+| 4 | October, 3 | Classifier <br /> (A. Ryabtsev) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_04.pdf)|  |
+| 5 | October, 17 | NLP models: chapter I <br /> (G. Drozdov) | [slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_05.pdf) |
+| 6 | October, 24 | NLP models: chapter II <br /> (G. Drozdov) | [zip](https://github.com/anryabtsev/matching-course/blob/main/lectures/NLP_Practice.zip) |   |
+| 7 | October, 31 | CV models <br /> (N. Bozhedomov) |[slides](https://github.com/anryabtsev/matching-course/blob/main/lectures/matching_lecture_07.pdf) |
+| 8 | November, 21 | ML System Design <br /> (A. Ryabtsev) | | 
+| 9 | November, 28 | Competition discussion <br /> (A. Ryabtsev) ||
 
 
 
